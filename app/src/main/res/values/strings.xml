@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="Add">Add</string>
+    <string name="Confirmer">Ajouter</string>
+    <string name="Cancel">Annuler</string>
+    <string name="NoteIn">Entrer une note entre 1 et 100 :</string>
+    <string name="NoteApp">NoteApp</string>
+    <string name="delete">Supprimer</string>
+    <string name="name">Name</string>
+</resources>
